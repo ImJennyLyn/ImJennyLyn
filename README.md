@@ -3,13 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif"
 
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinxxash&label=Profile%20views&color=0e75b6&style=flat" alt="rinxxash" /> </p>
 
 - 📫 How to reach me **vallador.jennylyn10@gmail.com**
 
-- ⚡ Fun fact **I like to take a ride or randomly visit some place whenever I feel down.**
+- ⚡ Fun fact **I'm a boring person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
