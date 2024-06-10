@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jenny Lyn</h1>
-<h3 align="center">🎓 I'm a passionate computer science student with a keen interest in exploring various skills and technologies. Currently, I'm diving deep into the world of software development, honing my skills in creating mobile applications, designing websites, and crafting intuitive layout designs.</h3>
+<h3 align="center">🎓 I'm a passionate computer science student with a keen interest in exploring various skills and technologies. Currently, I'm interested in creating mobile applications, designing websites, and crafting layout designs.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif"
 
 
