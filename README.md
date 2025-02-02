@@ -23,4 +23,4 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/zhongli-zhongli-genshin-i-will-have-order-zhongli-zhongli-i-have-no-idea-i-have-no-idea-gif-24168661.gif">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/al-haitam-sip-boba-gif-9089886543632736358.gif">
