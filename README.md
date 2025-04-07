@@ -9,8 +9,8 @@
 <h3 align="center">Languages and Tools:</h3>
 <table width="2000">
   <tr >
-    <td align="center" style="width: 30%;"><strong>Web Development</strong></td>
-    <td align="center" width="1000>
+    <td style="width: 60%;"><strong>Web Development</strong></td>
+    <td width="1000>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
       </a>
@@ -29,8 +29,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="width: 30%;"><strong>Mobile Development</strong></td>
-    <td align="center" style="width: 70%;">
+    <td  style="width: 60%;"><strong>Mobile Development</strong></td>
+    <td style="width: 70%;">
       <a href="https://flutter.dev/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
       </a>
@@ -40,8 +40,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="width: 30%;"><strong>Database Management</strong></td>
-    <td align="center" style="width: 70%;">
+    <td style="width: 60%;"><strong>Database Management</strong></td>
+    <td style="width: 70%;">
       <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
       </a>
@@ -51,8 +51,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="width: 30%;"><strong>Version Control</strong></td>
-    <td align="center" style="width: 70%;">
+    <td style="width: 60%;"><strong>Version Control</strong></td>
+    <td  style="width: 70%;">
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
       </a>
@@ -62,8 +62,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="width: 30%;"><strong>UI/UX Design</strong></td>
-    <td align="center" style="width: 70%;">
+    <td  style="width: 60%;"><strong>UI/UX Design</strong></td>
+    <td style="width: 70%;">
       <a href="https://www.figma.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
       </a>
