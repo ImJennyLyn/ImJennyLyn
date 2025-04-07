@@ -8,7 +8,7 @@
 
 <!-- Portfolio Button -->
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://imjennylyn.github.io/" target="_blank">
     <button style="background-color: green; color: white; padding: 15px 30px; border: none; border-radius: 5px; font-size: 18px; cursor: pointer;">
       Visit My Portfolio
     </button>
