@@ -8,7 +8,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <table width="2000">
-  <tr>
+  <tr width="1000>
     <td align="center" style="width: 30%;"><strong>Web Development</strong></td>
     <td align="center" style="width: 100%;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
