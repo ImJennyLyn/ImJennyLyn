@@ -90,8 +90,6 @@
 </table>
 
 ---
-![trophy](https://github-profile-trophy.vercel.app/?username=ImJennyLyn)
-
 <!--<p align="center">
   <img alt="Coding" src="https://tenor.com/view/zhongli-heart-genshinreact-gif-21636416.gif" width="200"/>
   <img alt="Coding" src="https://tenor.com/view/alhaitham-haitham-alhaitham-fawn-alhaitham-genshin-genshin-gif-27414207.gif" width="200"/>
