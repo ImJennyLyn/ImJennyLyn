@@ -6,11 +6,23 @@
 
 ---
 
+<!-- Portfolio Button -->
+<p align="center">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <button style="background-color: green; color: white; padding: 15px 30px; border: none; border-radius: 5px; font-size: 18px; cursor: pointer;">
+      Visit My Portfolio
+    </button>
+  </a>
+</p>
+
+
+---
+
 <h3 align="center">Languages and Tools:</h3>
 <table align="center" style="max-width: 900px; width: 100%;">
   <tr>
-    <td  width="400"style="width: 30%;"><strong>Web Development</strong></td>
-    <td width="900"style="width: 70%;">
+    <td width="400" style="width: 30%;"><strong>Web Development</strong></td>
+    <td width="900" style="width: 70%;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
       </a>
@@ -51,8 +63,8 @@
     </td>
   </tr>
   <tr>
-    <td  style="width: 30%;"><strong>Version Control</strong></td>
-    <td  style="width: 70%;">
+    <td style="width: 30%;"><strong>Version Control</strong></td>
+    <td style="width: 70%;">
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
       </a>
@@ -62,7 +74,7 @@
     </td>
   </tr>
   <tr>
-    <td  style="width: 30%;"><strong>UI/UX Design</strong></td>
+    <td style="width: 30%;"><strong>UI/UX Design</strong></td>
     <td style="width: 70%;">
       <a href="https://www.figma.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -84,3 +96,4 @@
   <img alt="Coding" src="https://tenor.com/view/alhaitham-haitham-alhaitham-fawn-alhaitham-genshin-genshin-gif-27414207.gif" width="200"/>
   <img alt="Coding" src="https://tenor.com/view/ayato-genshin-impact-boba-tea-ayato-boba-tea-boba-lord-gif-27224884.gif" width="200"/>
 </p>
+
