@@ -1,7 +1,7 @@
-<h1 align="center">Heyy, I'm Jennyah</h1>
+<h1 align="center">Heyy, I'm Jenny</h1>
 
 <p align="center">
-  I'm a soon-to-be Computer Science graduate with a strong passion for building websites and mobile apps. I'm excited to apply my skills in real-world projects and contribute to innovative solutions.
+ I’m a graduating Computer Science student with a passion for building, designing websites and mobile apps. I’m excited to apply what I’ve learned and dive into real-world projects
 </p>
 
 ---
