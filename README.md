@@ -91,9 +91,9 @@
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <img alt="Coding" src="https://tenor.com/view/zhongli-heart-genshinreact-gif-21636416.gif" width="200"/>
   <img alt="Coding" src="https://tenor.com/view/alhaitham-haitham-alhaitham-fawn-alhaitham-genshin-genshin-gif-27414207.gif" width="200"/>
   <img alt="Coding" src="https://tenor.com/view/ayato-genshin-impact-boba-tea-ayato-boba-tea-boba-lord-gif-27224884.gif" width="200"/>
-</p>
+</p>// -->
 
