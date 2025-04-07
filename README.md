@@ -8,9 +8,9 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <table width="2000">
-  <tr width="1000>
+  <tr >
     <td align="center" style="width: 30%;"><strong>Web Development</strong></td>
-    <td align="center" style="width: 100%;">
+    <td align="center" width="1000>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
       </a>
