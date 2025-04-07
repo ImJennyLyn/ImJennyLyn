@@ -90,7 +90,7 @@
 
 ---
 
-<h3 align="center">Some Fun Animations:</h3>
+
 <p align="center">
   <img alt="Coding" src="https://tenor.com/view/zhongli-heart-genshinreact-gif-21636416.gif" width="200"/>
   <img alt="Coding" src="https://tenor.com/view/alhaitham-haitham-alhaitham-fawn-alhaitham-genshin-genshin-gif-27414207.gif" width="200"/>
