@@ -7,7 +7,7 @@
 ---
 
 <h3 align="center">Languages and Tools:</h3>
-<table align="center" style="width: 100%; max-width: 900px;">
+<table align="center" style="width: 900px;">
   <tr>
     <td align="center" style="width: 30%;"><strong>Web Development</strong></td>
     <td align="center" style="width: 70%;">
