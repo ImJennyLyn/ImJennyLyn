@@ -90,7 +90,7 @@
 </table>
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ImJennyLyn/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ImJennyLyn)
 
 <!--<p align="center">
   <img alt="Coding" src="https://tenor.com/view/zhongli-heart-genshinreact-gif-21636416.gif" width="200"/>
