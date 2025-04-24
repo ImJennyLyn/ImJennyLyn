@@ -7,14 +7,12 @@
 ---
 
 <!-- Portfolio Section -->
-<div style="max-width: 400px; margin: 30px auto; background-color: #9CAF88; padding: 30px; border-radius: 15px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-  <h2 style="color: white; margin-bottom: 20px;">Check Out My Work!</h2>
-  <a href="https://imjennylyn.github.io/" target="_blank" style="text-decoration: none;">
-    <button style="background-color: white; color: #556B2F; padding: 15px 30px; border: none; border-radius: 8px; font-size: 16px; cursor: pointer;">
-      View My Portfolio
-    </button>
+
+<p align="center">
+  <a href="https://imjennylyn.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-9CAF88?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="View My Portfolio Badge"/>
   </a>
-</div>
+</p>
 
 
 
