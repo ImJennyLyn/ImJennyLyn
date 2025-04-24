@@ -1,5 +1,5 @@
 <h1 align="center">
-         Heyy, I'm Jenny  
+  ~~~~(  Hello, I'm Jenny  )~~~~
 </h1>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400"  src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
