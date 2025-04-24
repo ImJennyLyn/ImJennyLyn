@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400"  height="170" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 
 
-<h3 align="left">Hi! I'm Jenny</h3>
+<h1 align="left">Hi! I'm Jenny</h1>
 <p align="left">  I’m a graduating Computer Science student with a passion for <br>
       building, designing websites and mobile apps. I’m excited to <br>
       apply what I’ve learned and dive into real-world projects.
@@ -12,7 +12,7 @@
 
 <p style="text-align: left;">
   <a href="https://imjennylyn.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-ArmyGreen?style=for-the-badge&color=3B5E40" alt="View My Portfolio Badge"/>
+    <img width="200"  src="https://img.shields.io/badge/Visit%20My%20Portfolio-ArmyGreen?style=for-the-badge&color=3B5E40" alt="View My Portfolio Badge"/>
   </a>
 </p>
 
