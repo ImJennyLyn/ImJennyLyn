@@ -1,5 +1,5 @@
 <h1 align="center">
-  ~~~~(  Heyy, I'm Jenny  )~~~~
+         Heyy, I'm Jenny  
 </h1>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400"  src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
@@ -19,7 +19,8 @@
   </p>
   <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/lynxxa.ynnj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lynxxa.ynnj" height="30" width="40" /></a>
+<a href="https://instagram.com/lynxxa.ynnj" target="blank"> <img width="200" src="https://img.shields.io/badge/INstagram-ArmyGreen?style=for-the-badge&color=3B5E40" alt="INstagram/>
+ alt="lynxxa.ynnj" height="30" width="40" /></a>
 </p>
 </div>
 
