@@ -1,9 +1,8 @@
-<h1 align="center">Heyy, I'm Jennyah </h1>
+<h1 align="center">Heyy, I'm Jenny</h1>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 
 
-<h3 align="left">Connect with me:</h3>
  <p>
         I’m a graduating Computer Science student with a passion for <br>
         building, designing websites and mobile apps. I’m excited to <br>
@@ -11,10 +10,9 @@
       </p>
 
 
-
 <p style="text-align: left;">
   <a href="https://imjennylyn.github.io/" target="_blank">
- <img width="200" src="https://img.shields.io/badge/Visit%20My%20Portfolio-ArmyGreen?style=for-the-badge&color=3B5E40" alt="View My Portfolio Badge"/>
+ <img width="200" height="180" src="https://img.shields.io/badge/Visit%20My%20Portfolio-ArmyGreen?style=for-the-badge&color=3B5E40" alt="View My Portfolio Badge"/>
 
 
 
