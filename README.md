@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
   <!-- Left Container for Name and Description -->
-  <div style="max-width: 700px; text-align: left;">
+  <div style="max-width: 300px; text-align: left;">
     <h1>Hi, I'm Jenny</h1>
     <p>
       I’m a graduating Computer Science student with a passion for <br>
@@ -10,7 +10,7 @@
   </div>
 
   <!-- Right Container for Image -->
-  <div>
+  <div style="max-width: 300px; text-align: right;">
     <img 
       alt="Coding" 
       width="400" 
