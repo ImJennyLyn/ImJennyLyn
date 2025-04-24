@@ -1,11 +1,22 @@
 <!-- Left Aligned Introduction & Portfolio Section -->
 
-<h1 style="text-align: left;">Hi, I'm Jenny</h1>
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px;">
+  <div>
+    <h1 style="text-align: left;">Hi, I'm Jenny</h1>
+    <p style="text-align: left; max-width: 700px;">
+      I’m a graduating Computer Science student with a passion for <br> 
+      building, designing websites and mobile apps. I’m excited to <br> 
+      apply what I’ve learned and dive into real-world projects.
+    </p>
+  </div>
+  <img 
+    alt="Coding" 
+    width="400" 
+    src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif" 
+    style="margin-left: 20px;"
+  >
+</div>
 
-<p style="text-align: left; max-width: 700px;">
-  I’m a graduating Computer Science student with a passion for <br> building, designing websites and mobile apps. I’m excited to <br> apply what I’ve learned and dive into real-world projects.
-</p>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 <p style="text-align: left;">
   <a href="https://imjennylyn.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-ArmyGreen?style=for-the-badge&color=3B5E40" alt="View My Portfolio Badge"/>
