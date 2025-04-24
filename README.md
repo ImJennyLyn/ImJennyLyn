@@ -7,13 +7,14 @@
 ---
 
 <!-- Portfolio Button -->
-<p align="center">
-  <a href="https://imjennylyn.github.io/" target="_blank">
-    <button style="background-color: green; color: white; padding: 15px 30px; border: none; border-radius: 5px; font-size: 18px; cursor: pointer;">
-      Visit My Portfolio
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <a href="https://imjennylyn.github.io/" target="_blank" style="text-decoration: none;">
+    <button style="background-color: #9CAF88; color: white; padding: 15px 30px; border: none; border-radius: 8px; font-size: 18px; cursor: pointer; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+      View My Portfolio
     </button>
   </a>
-</p>
+</div>
+
 
 
 ---
