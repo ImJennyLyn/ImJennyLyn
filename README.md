@@ -1,16 +1,17 @@
 
 
 
-<table style="max-width: 1000px; width: 100%;">
-  <tr>
-    <td align="left" style="vertical-align: top;">
-      <p>  <strong style="font-size: 80px;">Hi! I'm Jenny</strong><br>
+<table style="max-width: 1000px; width: 100%; border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="left" style="vertical-align: top; border: none;">
+      <p>
+        <strong style="font-size: 80px;">Hi! I'm Jenny</strong><br>
         I’m a graduating Computer Science student with a passion for <br>
         building, designing websites and mobile apps. I’m excited to <br>
         apply what I’ve learned and dive into real-world projects.
       </p>
     </td>
-    <td align="right">
+    <td align="right" style="border: none;">
       <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
     </td>
   </tr>
