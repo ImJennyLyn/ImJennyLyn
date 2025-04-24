@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://imjennylyn.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-9CAF88?style=for-the-badge&logo=windowsterminal&logoColor=3B5E40" alt="View My Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Visit%My%Portfolio-ArmyGreen?style=for-the-badge&color=3B5E40" alt="View My Portfolio Badge"/>
   </a>
 </p>
 
