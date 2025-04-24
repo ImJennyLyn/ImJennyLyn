@@ -27,7 +27,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td width="900" style="width: 70%;"  align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
       </a>
