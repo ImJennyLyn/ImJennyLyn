@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
+
   <!-- Left Container for Name and Description -->
   <div style="max-width: 300px; text-align: left;">
     <h1>Hi, I'm Jenny</h1>
@@ -17,7 +17,6 @@
       src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif"
     >
   </div>
-</div>
 
 
 
