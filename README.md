@@ -22,7 +22,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <table align="center" style="max-width: 900px; width: 100%;">
   <tr>
-    <td width="400" style="width: 30%;">      <img src="https://img.shields.io/badge/Web%20Development-ArmyGreen?style=for-the-badge&color=4B5320" alt="Web Development"/>
+    <td width="400" style="width: 30%;">      <img src="https://img.shields.io/badge/Web%20Development-ArmyGreen?style=for-the-badge&color=3B5E40" alt="Web Development"/>
 </td>
     <td width="900" style="width: 70%;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
