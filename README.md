@@ -1,19 +1,20 @@
 <!-- Left Aligned Introduction & Portfolio Section -->
-
-<div style="position: relative; padding: 20px;">
-  <h1 style="text-align: left;">Hi, I'm Jenny</h1>
-  <p style="text-align: left; max-width: 700px;">
-    I’m a graduating Computer Science student with a passion for <br> 
-    building, designing websites and mobile apps. I’m excited to <br> 
-    apply what I’ve learned and dive into real-world projects.
-  </p>
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
+  <div style="max-width: 700px;">
+    <h1 style="text-align: left;">Hi, I'm Jenny</h1>
+    <p style="text-align: left;">
+      I’m a graduating Computer Science student with a passion for <br>
+      building, designing websites and mobile apps. I’m excited to <br>
+      apply what I’ve learned and dive into real-world projects.
+    </p>
+  </div>
   <img 
     alt="Coding" 
     width="400" 
-    src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif" 
-    style="position: absolute; top: 20px; right: 20px;"
+    src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif"
   >
 </div>
+
 
 
 <p style="text-align: left;">
