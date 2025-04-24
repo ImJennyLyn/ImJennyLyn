@@ -3,18 +3,20 @@
 <img align="right" alt="Coding" width="300"  src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 
 
- <p style = "margin-bottom: 50px;">
-        I’m a graduating Computer Science student with a passion for <br>
-        building, designing websites and mobile apps. I’m excited to <br>
-        apply what I’ve learned and dive into real-world projects.
-      </p>
+<div style="width: 600px; height: auto; padding: 20px;">
+  <p style="margin-bottom: 30px; font-size: 16px; line-height: 1.6;">
+    I’m a graduating Computer Science student with a passion for <br>
+    building, designing websites and mobile apps. I’m excited to <br>
+    apply what I’ve learned and dive into real-world projects.
+  </p>
 
+  <p style="margin: 0;">
+    <a href="https://imjennylyn.github.io/" target="_blank">
+      <img width="250" src="https://img.shields.io/badge/Visit%20My%20Portfolio-ArmyGreen?style=for-the-badge&color=3B5E40" alt="View My Portfolio Badge"/>
+    </a>
+  </p>
+</div>
 
-<p style="text-align: left; margin-top: 30px;" >
-  <a href="https://imjennylyn.github.io/" target="_blank">
- <img width="250"  src="https://img.shields.io/badge/Visit%20My%20Portfolio-ArmyGreen?style=for-the-badge&color=3B5E40" alt="View My Portfolio Badge"/>
-  </a>
-</p>
 
 ---
 
