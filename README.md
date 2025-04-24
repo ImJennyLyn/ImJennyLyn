@@ -1,4 +1,5 @@
-![Hello Banner](https://img.shields.io/badge/Hello%2C%20I'm%20Jenny-%23ff6347?style=flat&logo=github)
+![Header](./your-header-image-name.png)
+
 
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400"  src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
