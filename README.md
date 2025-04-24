@@ -2,12 +2,21 @@
 
 <h1 align="center">Hi!, I'm Jenny</h1>
 
-<p align="left">
-  I’m a graduating Computer Science student with a passion for <br>
-  building, designing websites and mobile apps. I’m excited to <br>
-  apply what I’ve learned and dive into real-world projects.
-</p>
-<img align="right" alt="Coding" width="400"  height="170" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
+<table>
+  <tr>
+    <td align="left" style="vertical-align: top;">
+      <p>
+        I’m a graduating Computer Science student with a passion for <br>
+        building, designing websites and mobile apps. I’m excited to <br>
+        apply what I’ve learned and dive into real-world projects.
+      </p>
+    </td>
+    <td align="right">
+      <img alt="Coding" width="400" height="170" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
+    </td>
+  </tr>
+</table>
+
 
 
 
