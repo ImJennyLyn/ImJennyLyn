@@ -22,8 +22,12 @@
 <h3 align="center">Languages and Tools:</h3>
 <table align="center" style="max-width: 900px; width: 100%;">
   <tr>
-    <td width="400" style="width: 30%;"><strong>Web Development</strong></td>
-    <td width="900" style="width: 70%;">
+    <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/Web%20Development-ArmyGreen?style=for-the-badge&color=4B5320" alt="Web Development"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
       </a>
@@ -41,9 +45,14 @@
       </a>
     </td>
   </tr>
+
   <tr>
-    <td style="width: 30%;"><strong>Mobile Development</strong></td>
-    <td style="width: 70%;">
+    <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/Mobile%20Development-ArmyGreen?style=for-the-badge&color=4B5320" alt="Mobile Development"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <a href="https://flutter.dev/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
       </a>
@@ -52,9 +61,14 @@
       </a>
     </td>
   </tr>
+
   <tr>
-    <td style="width: 30%;"><strong>Database Management</strong></td>
-    <td style="width: 70%;">
+    <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/Database%20Management-ArmyGreen?style=for-the-badge&color=4B5320" alt="Database Management"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
       </a>
@@ -63,9 +77,14 @@
       </a>
     </td>
   </tr>
+
   <tr>
-    <td style="width: 30%;"><strong>Version Control</strong></td>
-    <td style="width: 70%;">
+    <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/Version%20Control-ArmyGreen?style=for-the-badge&color=4B5320" alt="Version Control"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
       </a>
@@ -74,9 +93,14 @@
       </a>
     </td>
   </tr>
+
   <tr>
-    <td style="width: 30%;"><strong>UI/UX Design</strong></td>
-    <td style="width: 70%;">
+    <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/UI%2FUX%20Design-ArmyGreen?style=for-the-badge&color=4B5320" alt="UI/UX Design"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <a href="https://www.figma.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
       </a>
@@ -89,6 +113,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 <!--<p align="center">
