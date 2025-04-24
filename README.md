@@ -10,8 +10,8 @@
   </div>
 
   <!-- Right Container for Image -->
-  <div style="max-width: 300px; text-align: right;">
-  <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
+  <div style="max-width: 300px; align: right;">
+  <img  alt="Coding" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
   </div>
 
 
