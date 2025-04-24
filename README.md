@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi!, I'm Jenny</h1>
 
-<table>
+<table style="max-width: 1000px; width: 100%;">
   <tr>
     <td align="left" style="vertical-align: top;">
       <p>
@@ -12,7 +12,7 @@
       </p>
     </td>
     <td align="right">
-      <img alt="Coding" width="400" height="170" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
+      <img alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
     </td>
   </tr>
 </table>
