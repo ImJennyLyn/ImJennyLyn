@@ -1,6 +1,5 @@
 
 
-<img align="right" alt="Coding" width="400"  height="170" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 <h1 align="center">Hi!, I'm Jenny</h1>
 
 <p align="left">
@@ -8,6 +7,8 @@
   building, designing websites and mobile apps. I’m excited to <br>
   apply what I’ve learned and dive into real-world projects.
 </p>
+<img align="right" alt="Coding" width="400"  height="170" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
+
 
 
 
