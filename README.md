@@ -1,6 +1,6 @@
 <!-- Left Aligned Introduction & Portfolio Section -->
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
-  <div style="max-width: 700px;">
+  <div style="max-width: 200px;">
     <h1 style="text-align: left;">Hi, I'm Jenny</h1>
     <p style="text-align: left;">
       I’m a graduating Computer Science student with a passion for <br>
