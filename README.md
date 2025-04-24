@@ -1,8 +1,8 @@
 
 
 <img align="right" alt="Coding" width="400"  height="170" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
-<h1 align="left" style="margin-bottom: 0;">Hi! I'm Jenny</h1>
-<p align="left" style="margin-top: 0;">
+<p align="left">
+  <strong style="font-size: 26px;">Hi! I'm Jenny</strong><br>
   I’m a graduating Computer Science student with a passion for <br>
   building, designing websites and mobile apps. I’m excited to <br>
   apply what I’ve learned and dive into real-world projects.
