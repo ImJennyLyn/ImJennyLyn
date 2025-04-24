@@ -3,7 +3,7 @@
 <h1 style="text-align: left;">Hi, I'm Jenny</h1>
 
 <p style="text-align: left; max-width: 700px;">
-  I’m a graduating Computer Science student with a passion for building, designing websites and mobile apps. I’m excited to apply what I’ve learned and dive into real-world projects.
+  I’m a graduating Computer Science student with a passion for <br> building, designing websites and mobile apps. I’m excited to apply what I’ve learned and dive into real-world projects.
 </p>
 
 <p style="text-align: left;">
