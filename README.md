@@ -2,12 +2,14 @@
 
 <img align="right" alt="Coding" width="400"  height="170" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 
-
-<h1 align="left">Hi! I'm Jenny</h1>
-<p align="left">  I’m a graduating Computer Science student with a passion for <br>
-      building, designing websites and mobile apps. I’m excited to <br>
-      apply what I’ve learned and dive into real-world projects.
-</p>
+<div style="text-align: left;">
+  <h1 style="margin-bottom: 0;">Hi! I'm Jenny</h1>
+  <p style="margin-top: 5px;">
+    I’m a graduating Computer Science student with a passion for <br>
+    building, designing websites and mobile apps. I’m excited to <br>
+    apply what I’ve learned and dive into real-world projects.
+  </p>
+</div>
 
 
 <p style="text-align: left;">
