@@ -1,11 +1,10 @@
 
 
-<h1 align="center">Hi!, I'm Jenny</h1>
 
 <table style="max-width: 1000px; width: 100%;">
   <tr>
     <td align="left" style="vertical-align: top;">
-      <p>
+      <p>  <strong style="font-size: 80px;">Hi! I'm Jenny</strong><br>
         I’m a graduating Computer Science student with a passion for <br>
         building, designing websites and mobile apps. I’m excited to <br>
         apply what I’ve learned and dive into real-world projects.
