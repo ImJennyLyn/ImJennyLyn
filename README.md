@@ -19,7 +19,7 @@
   </p>
   <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/lynxxa.ynnj" target="blank"> <img width="50" src="https://img.shields.io/badge/INstagram-ArmyGreen?style=for-the-badge&color=3B5E40" alt="INstagram/>
+<a href="https://instagram.com/lynxxa.ynnj" target="blank"> <img width="100" src="https://img.shields.io/badge/Instagram-ArmyGreen?style=for-the-badge&color=3B5E40" alt="INstagram/>
  alt="lynxxa.ynnj" height="30" width="40" /></a>
 </p>
 </div>
