@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://imjennylyn.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-9CAF88?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="View My Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-9CAF88?style=for-the-badge&logo=windowsterminal&logoColor=3B5E40" alt="View My Portfolio Badge"/>
   </a>
 </p>
 
@@ -43,7 +43,7 @@
     </td>
   </tr>
   <tr>
-    <td style="width: 30%;">      <img src="https://img.shields.io/badge/Mobile%20Development-ArmyGreen?style=for-the-badge&color=4B5320" alt="Mobile Development"/>
+    <td style="width: 30%;">      <img src="https://img.shields.io/badge/Mobile%20Development-ArmyGreen?style=for-the-badge&color=3B5E40" alt="Mobile Development"/>
 </td>
     <td style="width: 70%;">
       <a href="https://flutter.dev/" target="_blank">
@@ -55,7 +55,7 @@
     </td>
   </tr>
   <tr>
-    <td style="width: 30%;">      <img src="https://img.shields.io/badge/Database%20Management-ArmyGreen?style=for-the-badge&color=4B5320" alt="Database Management"/>
+    <td style="width: 30%;">      <img src="https://img.shields.io/badge/Database%20Management-ArmyGreen?style=for-the-badge&color=3B5E40" alt="Database Management"/>
 </td>
     <td style="width: 70%;">
       <a href="https://www.mysql.com/" target="_blank">
@@ -67,7 +67,7 @@
     </td>
   </tr>
   <tr>
-    <td style="width: 30%;">      <img src="https://img.shields.io/badge/Version%20Control-ArmyGreen?style=for-the-badge&color=4B5320" alt="Version Control"/>
+    <td style="width: 30%;">      <img src="https://img.shields.io/badge/Version%20Control-ArmyGreen?style=for-the-badge&color=3B5E40" alt="Version Control"/>
 </td>
     <td style="width: 70%;">
       <a href="https://git-scm.com/" target="_blank">
@@ -79,7 +79,7 @@
     </td>
   </tr>
   <tr>
-    <td style="width: 30%;">      <img src="https://img.shields.io/badge/UI%2FUX%20Design-ArmyGreen?style=for-the-badge&color=4B5320" alt="UI/UX Design"/>
+    <td style="width: 30%;">      <img src="https://img.shields.io/badge/UI%2FUX%20Design-ArmyGreen?style=for-the-badge&color=3B5E40" alt="UI/UX Design"/>
 </td>
     <td style="width: 70%;">
       <a href="https://www.figma.com/" target="_blank">
