@@ -1,6 +1,6 @@
 
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
+<img align="right" alt="Coding" width="400"  height="200" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 
 
 <h3 align="left">Hi! I'm Jenny</h3>
