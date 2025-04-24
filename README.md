@@ -43,7 +43,8 @@
     </td>
   </tr>
   <tr>
-    <td style="width: 30%;"><strong>Mobile Development</strong></td>
+    <td style="width: 30%;">      <img src="https://img.shields.io/badge/Mobile%20Development-ArmyGreen?style=for-the-badge&color=4B5320" alt="Mobile Development"/>
+</td>
     <td style="width: 70%;">
       <a href="https://flutter.dev/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
@@ -54,7 +55,8 @@
     </td>
   </tr>
   <tr>
-    <td style="width: 30%;"><strong>Database Management</strong></td>
+    <td style="width: 30%;">      <img src="https://img.shields.io/badge/Database%20Management-ArmyGreen?style=for-the-badge&color=4B5320" alt="Database Management"/>
+</td>
     <td style="width: 70%;">
       <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -65,7 +67,8 @@
     </td>
   </tr>
   <tr>
-    <td style="width: 30%;"><strong>Version Control</strong></td>
+    <td style="width: 30%;">      <img src="https://img.shields.io/badge/Version%20Control-ArmyGreen?style=for-the-badge&color=4B5320" alt="Version Control"/>
+</td>
     <td style="width: 70%;">
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
@@ -76,7 +79,8 @@
     </td>
   </tr>
   <tr>
-    <td style="width: 30%;"><strong>UI/UX Design</strong></td>
+    <td style="width: 30%;">      <img src="https://img.shields.io/badge/UI%2FUX%20Design-ArmyGreen?style=for-the-badge&color=4B5320" alt="UI/UX Design"/>
+</td>
     <td style="width: 70%;">
       <a href="https://www.figma.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
