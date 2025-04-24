@@ -15,7 +15,7 @@
 <img 
   src="https://img.shields.io/badge/Visit%20My%20Portfolio-ArmyGreen?style=for-the-badge&color=3B5E40" 
   alt="View My Portfolio Badge"
-  style="width: 200px;"
+  style="width: 400px;"
 />
   </a>
 </p>
