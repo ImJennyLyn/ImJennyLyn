@@ -1,6 +1,6 @@
 <h1 align="center">Heyy, I'm Jenny</h1>
 <h3 align="center"></h3>
-<img align="right" alt="Coding" width="400"  height= "170" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
+<img align="right" alt="Coding" width="300"  src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 
 
  <p style = "margin-bottom: 50px;">
@@ -12,7 +12,7 @@
 
 <p style="text-align: left; margin-top: 30px;" >
   <a href="https://imjennylyn.github.io/" target="_blank">
- <img width="300"  src="https://img.shields.io/badge/Visit%20My%20Portfolio-ArmyGreen?style=for-the-badge&color=3B5E40" alt="View My Portfolio Badge"/>
+ <img width="250"  src="https://img.shields.io/badge/Visit%20My%20Portfolio-ArmyGreen?style=for-the-badge&color=3B5E40" alt="View My Portfolio Badge"/>
   </a>
 </p>
 
