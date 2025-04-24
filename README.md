@@ -20,7 +20,7 @@
 ---
 
 <h3 align="center">Languages and Tools:</h3>
-<table align="center" style="max-width: 900px; width: 100%;">
+<table align="center" style="max-width: 1200px; width: 100%;">
   <tr>
     <td colspan="2" align="center">
       <img src="https://img.shields.io/badge/Web%20Development-ArmyGreen?style=for-the-badge&color=4B5320" alt="Web Development"/>
