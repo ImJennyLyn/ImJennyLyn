@@ -1,14 +1,14 @@
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <p style="max-width: 60%;">
-    I’m a graduating Computer Science student with a passion for <br>
-    building, designing websites and mobile apps. I’m excited to <br>
-    apply what I’ve learned and dive into real-world projects.
-  </p>
-  <img alt="Coding" width="400" height="170" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
-</div>
+<h1 align="center">Heyy, I'm Jennyah </h1>
+<h3 align="center"></h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 
 
-
+<h3 align="left">Connect with me:</h3>
+ <p>
+        I’m a graduating Computer Science student with a passion for <br>
+        building, designing websites and mobile apps. I’m excited to <br>
+        apply what I’ve learned and dive into real-world projects.
+      </p>
 
 
 
