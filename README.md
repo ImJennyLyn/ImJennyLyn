@@ -1,18 +1,22 @@
-<!-- Left Aligned Introduction & Portfolio Section -->
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
-  <div style="max-width: 200px;">
-    <h1 style="text-align: left;">Hi, I'm Jenny</h1>
-    <p style="text-align: left;">
+  <!-- Left Container for Name and Description -->
+  <div style="max-width: 700px; text-align: left;">
+    <h1>Hi, I'm Jenny</h1>
+    <p>
       I’m a graduating Computer Science student with a passion for <br>
       building, designing websites and mobile apps. I’m excited to <br>
       apply what I’ve learned and dive into real-world projects.
     </p>
   </div>
-  <img 
-    alt="Coding" 
-    width="400" 
-    src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif"
-  >
+
+  <!-- Right Container for Image -->
+  <div>
+    <img 
+      alt="Coding" 
+      width="400" 
+      src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif"
+    >
+  </div>
 </div>
 
 
