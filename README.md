@@ -1,19 +1,14 @@
 
-  <!-- Left Container for Name and Description -->
-  <div style="max-width: 300px; text-align: left;">
-    <h1>Hi, I'm Jenny</h1>
-    <p>
-      I’m a graduating Computer Science student with a passion for <br>
-      building, designing websites and mobile apps. I’m excited to <br>
-      apply what I’ve learned and dive into real-world projects.
-    </p>
-  </div>
+<h1 align="center">Heyy, I'm Jennyah </h1>
+<h3 align="center"></h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
 
-  <!-- Right Container for Image -->
-  <div style="max-width: 300px; align: right;">
-  <img  alt="Coding" src="https://miro.medium.com/v2/resize:fit:1080/1*vBi4Ycgdn5t3lu2SvQXuog.gif">
-  </div>
+📫 How to reach me **vallador.jennylyn10@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/lynxxa.ynnj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lynxxa.ynnj" height="30" width="40" /></a>
+</p>
 
 
 <p style="text-align: left;">
