@@ -32,45 +32,33 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-
-<!-- Web Development -->
 <p align="left">
-  <strong>🌐 Web Development</strong>
+
+  <!-- 🌐 Web Development -->
   <img src="https://img.shields.io/badge/HTML5-ArmyGreen?style=for-the-badge&logo=html5&logoColor=white&color=3B5E40" />
   <img src="https://img.shields.io/badge/CSS3-ArmyGreen?style=for-the-badge&logo=css3&logoColor=white&color=3B5E40" />
   <img src="https://img.shields.io/badge/TailwindCSS-ArmyGreen?style=for-the-badge&logo=tailwind-css&logoColor=white&color=3B5E40" />
-  <img src="https://img.shields.io/badge/JavaScript-ArmyGreen?style=for-the-badge&logo=javascript&logoColor=white&color=3B5E40" />
+  <img src="https://img.shields.io/badge/JavaScript-ArmyGreen?style=for-the-badge&logo=javascript&logoColor=black&color=3B5E40" />
   <img src="https://img.shields.io/badge/PHP-ArmyGreen?style=for-the-badge&logo=php&logoColor=white&color=3B5E40" />
-</p>
 
-<!-- Mobile Development -->
-<p align="left">
-  <strong>📱 Mobile Development</strong>
+  <!-- 📱 Mobile Development -->
   <img src="https://img.shields.io/badge/Flutter-ArmyGreen?style=for-the-badge&logo=flutter&logoColor=white&color=3B5E40" />
-  <img src="https://img.shields.io/badge/Firebase-ArmyGreen?style=for-the-badge&logo=firebase&logoColor=white&color=3B5E40" />
-</p>
+  <img src="https://img.shields.io/badge/Firebase-ArmyGreen?style=for-the-badge&logo=firebase&logoColor=black&color=3B5E40" />
 
-<!-- Database Management -->
-<p align="left">
-  <strong>🗄️ Database Management</strong>
+  <!-- 🗄️ Database Management -->
   <img src="https://img.shields.io/badge/MySQL-ArmyGreen?style=for-the-badge&logo=mysql&logoColor=white&color=3B5E40" />
-  <img src="https://img.shields.io/badge/Firestore-ArmyGreen?style=for-the-badge&logo=firebase&logoColor=white&color=3B5E40" />
-</p>
+  <img src="https://img.shields.io/badge/Firestore-ArmyGreen?style=for-the-badge&logo=firebase&logoColor=black&color=3B5E40" />
 
-<!-- Version Control -->
-<p align="left">
-  <strong>🔧 Version Control</strong>
+  <!-- 🔧 Version Control -->
   <img src="https://img.shields.io/badge/Git-ArmyGreen?style=for-the-badge&logo=git&logoColor=white&color=3B5E40" />
   <img src="https://img.shields.io/badge/GitHub-ArmyGreen?style=for-the-badge&logo=github&logoColor=white&color=3B5E40" />
-</p>
 
-<!-- UI/UX Design -->
-<p align="left">
-  <strong>🎨 UI/UX Design</strong>
+  <!-- 🎨 UI/UX Design -->
   <img src="https://img.shields.io/badge/Figma-ArmyGreen?style=for-the-badge&logo=figma&logoColor=white&color=3B5E40" />
   <img src="https://img.shields.io/badge/Framer-ArmyGreen?style=for-the-badge&logo=framer&logoColor=white&color=3B5E40" />
   <img src="https://img.shields.io/badge/Canva-ArmyGreen?style=for-the-badge&logo=canva&logoColor=white&color=3B5E40" />
 </p>
+
 
 ---
 <!--<p align="center">
