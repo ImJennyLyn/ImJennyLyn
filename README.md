@@ -32,30 +32,44 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
+
+<!-- Web Development -->
+<p><strong>🌐 Web Development</strong></p>
 <p align="left">
-  <!-- Web Development -->
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-ArmyGreen?style=for-the-badge&logo=html5&logoColor=white&color=3B5E40" />
+  <img src="https://img.shields.io/badge/CSS3-ArmyGreen?style=for-the-badge&logo=css3&logoColor=white&color=3B5E40" />
+  <img src="https://img.shields.io/badge/TailwindCSS-ArmyGreen?style=for-the-badge&logo=tailwind-css&logoColor=white&color=3B5E40" />
+  <img src="https://img.shields.io/badge/JavaScript-ArmyGreen?style=for-the-badge&logo=javascript&logoColor=white&color=3B5E40" />
+  <img src="https://img.shields.io/badge/PHP-ArmyGreen?style=for-the-badge&logo=php&logoColor=white&color=3B5E40" />
+</p>
 
-  <!-- Mobile Development -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<!-- Mobile Development -->
+<p><strong>📱 Mobile Development</strong></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-ArmyGreen?style=for-the-badge&logo=flutter&logoColor=white&color=3B5E40" />
+  <img src="https://img.shields.io/badge/Firebase-ArmyGreen?style=for-the-badge&logo=firebase&logoColor=white&color=3B5E40" />
+</p>
 
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<!-- Database Management -->
+<p><strong>🗄️ Database Management</strong></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-ArmyGreen?style=for-the-badge&logo=mysql&logoColor=white&color=3B5E40" />
+  <img src="https://img.shields.io/badge/Firestore-ArmyGreen?style=for-the-badge&logo=firebase&logoColor=white&color=3B5E40" />
+</p>
 
-  <!-- Version Control -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<!-- Version Control -->
+<p><strong>🔧 Version Control</strong></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-ArmyGreen?style=for-the-badge&logo=git&logoColor=white&color=3B5E40" />
+  <img src="https://img.shields.io/badge/GitHub-ArmyGreen?style=for-the-badge&logo=github&logoColor=white&color=3B5E40" />
+</p>
 
-  <!-- UI/UX Design -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<!-- UI/UX Design -->
+<p><strong>🎨 UI/UX Design</strong></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-ArmyGreen?style=for-the-badge&logo=figma&logoColor=white&color=3B5E40" />
+  <img src="https://img.shields.io/badge/Framer-ArmyGreen?style=for-the-badge&logo=framer&logoColor=white&color=3B5E40" />
+  <img src="https://img.shields.io/badge/Canva-ArmyGreen?style=for-the-badge&logo=canva&logoColor=white&color=3B5E40" />
 </p>
 
 ---
