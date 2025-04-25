@@ -13,18 +13,18 @@
     apply what I’ve learned and dive into real-world projects.
   </p>
 
-  <p style="margin: 0;">
-    <a href="https://imjennylyn.github.io/" target="_blank">
-      <img width="200" src="https://img.shields.io/badge/Visit%20My%20Portfolio-ArmyGreen?style=for-the-badge&color=3B5E40" alt="View My Portfolio Badge"/>
-    </a>
-  </p>
+
   <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https://imjennylyn.github.io/" target="_blank">
+      <img width="100" src="https://img.shields.io/badge/Visit%20My%20Portfolio-ArmyGreen?style=for-the-badge&color=3B5E40" alt="PORTFOLIO"  height="30" width="40" />
+    </a>
 <a href="https://instagram.com/lynxxa.ynnj" target="blank"> <img width="100" src="https://img.shields.io/badge/Instagram-ArmyGreen?style=for-the-badge&color=3B5E40" alt="INstagram/>
  alt="lynxxa.ynnj" height="30" width="40" /></a>
           <a href="https://www.facebook.com/jennylyn.vallador" target="_blank">
-      <img width="100" src="https://img.shields.io/badge/Facebook-ArmyGreen?style=for-the-badge&color=3B5E40" alt="View My Portfolio Badge"  height="30" width="40"/>
+      <img width="100" src="https://img.shields.io/badge/Facebook-ArmyGreen?style=for-the-badge&color=3B5E40" alt="Facebook"  height="30" width="40"/>
     </a>
+  
 </p>
 </div>
 
