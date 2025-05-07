@@ -27,7 +27,7 @@
   
 </p>
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=imjennylyn&show_icons=true&theme=default" height="200" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ImJennyLyn&show_icons=true&theme=default" height="200" width="100%" />
 
 
 ---
