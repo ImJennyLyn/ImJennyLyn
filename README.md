@@ -27,7 +27,7 @@
   
 </p>
 </div>
-<img src="https://ghchart.rshah.org/3B5E40/ImJennyLyn" alt="GitHub Contributions Chart" width="100%" height="200"/>
+<img src="https://metrics.lecoq.io/ImJennyLyn?template=classic&base=header,activity&config.timezone=Asia%2FManila" width="100%" height="250"/>
 
 
 ---
