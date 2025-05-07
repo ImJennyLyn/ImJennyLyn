@@ -27,7 +27,6 @@
   
 </p>
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=imjennylyn&show_icons=true&theme=default&cache_seconds=60" height="200" width="100%" />
 
 
 ---
